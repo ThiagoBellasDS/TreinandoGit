@@ -2,4 +2,4 @@
 2. git status --> verifica o status do repositório
 3. Após alterações = git add . (usar o "." para adicionar todos arquivos modificados)
 4. git commit -m "COLOCAR QQ MSG RELACIONADA A ALTERAÇÕES"
-5. git push --> responsável por "jogar" tudo para remote "Github"cd 
+5. git push --> responsável por "jogar" tudo para remote "Github"
